@@ -7,7 +7,7 @@ function Navbar() {
         <nav className="navbar navbar-expand-lg border-bottom" style={{ backgroundColor: '#FFF' }}>
             <div className="container">
                 <Link className="navbar-brand ms-2 ms-md-4" to="/">
-                    <img src="media/TradeFlow_logo.svg" className="img-fluid" style={{ width: '40%', minWidth: "120px", maxWidth: "180px" }} alt="Logo" />
+                    <img src="media/Finora_logo.svg" className="img-fluid" style={{ width: '40%', minWidth: "120px", maxWidth: "180px" }} alt="Finora logo" />
                 </Link>
                 {/* Mobile: Font Awesome bars acts as Bootstrap menu toggle */}
                 <button

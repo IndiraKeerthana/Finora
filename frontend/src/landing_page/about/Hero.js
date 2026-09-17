@@ -10,7 +10,7 @@ function Hero() {
             <div className="row px-3 px-lg-5 py-4 py-lg-5 mt-3 mt-lg-5 border-top text-muted mx-0 mx-lg-5 gy-3" style = {{lineHeight: "1.8", fontSize: "1rem", color: "#424242"}}>
                 <div className="col-12 col-lg-6 p-2 p-lg-5">
                     <p>
-                        TradeFlow is a full-stack stock trading platform project built as a detailed clone and recreation of the Zerodha web application.
+                        Finora is a full-stack stock trading platform project built as a detailed clone and recreation of the Zerodha web application.
                     </p>
 
                     <p>
@@ -18,7 +18,7 @@ function Hero() {
                     </p>
 
                     <p>
-                        Through TradeFlow, I explored building real-world features such as authentication systems, responsive layouts, reusable React components, dashboard interfaces, and modern user experiences inspired by production-level trading platforms.
+                        Through Finora, I explored building real-world features such as authentication systems, responsive layouts, reusable React components, dashboard interfaces, and modern user experiences inspired by production-level trading platforms.
                     </p>
                 </div>
                 <div className="col-12 col-lg-6 p-2 p-lg-5">
@@ -31,7 +31,7 @@ function Hero() {
                     </p>
 
                     <p>
-                        TradeFlow is purely an educational and portfolio project built for learning, experimentation, and showcasing development skills through a real-world inspired application.
+                        Finora is purely an educational and portfolio project built for learning, experimentation, and showcasing development skills through a real-world inspired application.
                     </p>
                 </div>
             </div>

@@ -9,7 +9,7 @@ function Awards() {
           </div>
           <div className="col-12 col-lg-6 p-3 p-lg-5">
             <h1 className="fs-3">Modern Trading Made Simple</h1>
-            <p className="mb-4 mb-lg-5">TradeFlow is designed to help users trade and invest seamlessly with real-time insights, intuitive dashboards, and a smooth investing experience.</p>
+            <p className="mb-4 mb-lg-5">Finora is designed to help users trade and invest seamlessly with real-time insights, intuitive dashboards, and a smooth investing experience.</p>
             <div className="row">
               <div className="col-6">
                 <ul>

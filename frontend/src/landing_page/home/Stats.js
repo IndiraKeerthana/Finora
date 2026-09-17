@@ -8,12 +8,12 @@ function Stats() {
                     <h1 className = "mb-5 fs-3">Trust with Confidence</h1>
 
                     <h2 className = "fs-5">Customer-first always</h2>
-                    <p className = "text-muted">From market tracking to seamless trading, TradeFlow is crafted to make investing easier for everyone.</p>
+                    <p className = "text-muted">From market tracking to seamless trading, Finora is crafted to make investing easier for everyone.</p>
 
                     <h2 className = "fs-5">No spam or gimmicks</h2>
                     <p className = "text-muted">No gimmicks, spam, "gamification", or annoying push notifications. High quality apps that you use at your pace, the way you like.</p>
 
-                    <h2 className = "fs-5">The TradeFlow Universe</h2>
+                    <h2 className = "fs-5">The Finora Universe</h2>
                     <p className = "text-muted">Not just an app, but a whole ecosystem. Our investment in 30+ fintech startups offer you tailored services specific to you needs.</p>
 
                     <h2 className = "fs-5">Do better with money</h2>

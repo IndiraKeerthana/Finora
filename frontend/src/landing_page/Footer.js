@@ -6,7 +6,7 @@ function Footer() {
             <div className="container border-top p-3 p-lg-5 mt-5 mb-5">
                 <div className="row">
                     <div className="col-12 col-md-6 col-lg mb-4 mb-lg-0">
-                        <img src="media/TradeFlow_logo.svg" className="img-fluid" style={{ width: "50%", maxWidth: "200px" }} alt="Logo" />
+                        <img src="media/Finora_logo.svg" className="img-fluid" style={{ width: "50%", maxWidth: "200px" }} alt="Finora logo" />
                         <p>© 2010 - 2026, Zerodha Broking Ltd. <br />All rights reserved.</p>
                     </div>
                     <div className="col-12 col-md-6 col-lg footer-links mb-4 mb-lg-0">

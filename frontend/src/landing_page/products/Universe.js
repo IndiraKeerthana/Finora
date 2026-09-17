@@ -15,7 +15,7 @@ function Universe() {
                 >
                     Want to know more about our technology stack? Check out the{" "}
                     <a href="/" style={{ textDecoration: "none" }}>
-                        TradeFlow.tech
+                        Finora.tech
                     </a>{" "}
                     blog.
                 </p>
@@ -30,7 +30,7 @@ function Universe() {
                         color: "#424242",
                     }}
                 >
-                    The TradeFlow Universe
+                    The Finora Universe
                 </h1>
 
                 <p

@@ -58,6 +58,6 @@
     <ellipse cx="45" cy="50" rx="4" ry="3" fill="#FFFFFF" opacity="0.3"/>
   </g>
   
-  <!-- Brand Name: TradeFlow -->
-  <text x="95" y="62" font-family="'Times New Roman', serif" font-size="56" font-weight="700" fill="#2E6DB6" letter-spacing="-0.5">TradeFlow</text>
+  <!-- Brand Name: Finora -->
+  <text x="95" y="62" font-family="'Times New Roman', serif" font-size="56" font-weight="700" fill="#2E6DB6" letter-spacing="-0.5">Finora</text>
 </svg>

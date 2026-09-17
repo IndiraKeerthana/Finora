@@ -28,7 +28,7 @@ function Team() {
                     </p>
 
                     <p>
-                        Through TradeFlow, she explored recreating and understanding how large-scale stock trading platforms are designed with clean UI, responsive layouts, and scalable architecture.
+                        Through Finora, she explored recreating and understanding how large-scale stock trading platforms are designed with clean UI, responsive layouts, and scalable architecture.
                     </p>
 
                     <p>
@@ -40,7 +40,7 @@ function Team() {
                     </p>
 
                     <p>
-                        TradeFlow represents both a learning journey and a portfolio project focused on mastering full-stack development through real-world inspired applications.
+                        Finora represents both a learning journey and a portfolio project focused on mastering full-stack development through real-world inspired applications.
                     </p>
 
                     <p>
